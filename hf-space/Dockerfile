@@ -1,4 +1,4 @@
 # Image version1
-FROM 03sarath/distilbert-sentiment:latest
+FROM cloudmlops7/distilbert-sentiment:v1
 
 EXPOSE 7860
