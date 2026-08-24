@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  DOCKER_REPO: FROM cloudmlops7/distilbert-sentiment:v1
+  DOCKER_REPO: cloudmlops7/distilbert-sentiment
 
 jobs:
 
